@@ -1,0 +1,6 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Dominio\bin\Debug\Sorveteria.Dominio.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Dominio\bin\Debug\Sorveteria.Dominio.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Dominio\obj\Debug\Sorveteria.Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Dominio\obj\Debug\Sorveteria.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Dominio\obj\Debug\Sorveteria.Dominio.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Dominio\obj\Debug\Sorveteria.Dominio.pdb

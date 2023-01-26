@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.WebAppCore\\Sorveteria.WebAppCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Aplicacao\\Sorveteria.Aplicacao.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Aplicacao\\Sorveteria.Aplicacao.csproj",
+        "projectName": "Sorveteria.Aplicacao",
+        "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Aplicacao\\Sorveteria.Aplicacao.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj": {
+                "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj"
+              },
+              "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.RepositorioEF\\Sorveteria.RepositorioEF.csproj": {
+                "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.RepositorioEF\\Sorveteria.RepositorioEF.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj",
+        "projectName": "Sorveteria.Dominio",
+        "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.RepositorioEF\\Sorveteria.RepositorioEF.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.RepositorioEF\\Sorveteria.RepositorioEF.csproj",
+        "projectName": "Sorveteria.RepositorioEF",
+        "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.RepositorioEF\\Sorveteria.RepositorioEF.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj": {
+                "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.WebAppCore\\Sorveteria.WebAppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.WebAppCore\\Sorveteria.WebAppCore.csproj",
+        "projectName": "Sorveteria.WebAppCore",
+        "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.WebAppCore\\Sorveteria.WebAppCore.csproj",
+        "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.WebAppCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Aplicacao\\Sorveteria.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Aplicacao\\Sorveteria.Aplicacao.csproj"
+              },
+              "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj": {
+                "projectPath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\SolSorveteria\\Sorveteria.Dominio\\Sorveteria.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

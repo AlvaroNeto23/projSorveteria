@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.Aplicacao.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.Aplicacao.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.Dominio.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.RepositorioEF.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.Dominio.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.RepositorioEF.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\Sorveteria.RepositorioEF.dll.config
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\obj\Debug\Sorveteria.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\obj\Debug\Sorveteria.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\obj\Debug\Sorveteria.Aplicacao.csproj.CopyComplete
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\obj\Debug\Sorveteria.Aplicacao.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\SolSorveteria\Sorveteria.Aplicacao\obj\Debug\Sorveteria.Aplicacao.pdb

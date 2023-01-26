@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Sorveteria Sol</h1>
+
+    @Html.ActionLink("Cadastro de Empresas","Index","Empresa")
+    <br />
+    @Html.ActionLink("Cadastro de Produtos","Index","Produto")
+    <br />
+    @Html.ActionLink("Cadastro de Usuários","Index","Usuario")
+    <br />
+    @Html.ActionLink("Cadastro de Carrinhos","Index","Carrinho")
+    <br />
+    <br />
+    @Html.ActionLink("Registrar uma Venda de Produtos","Index","ProdutoVenda")
+    <br />
+    @Html.ActionLink("Registrar uma Compra de Produtos","Index","ProdutoCompra")    
+</div>
